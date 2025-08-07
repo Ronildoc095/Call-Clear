@@ -1,4 +1,4 @@
-##📱 CallClear – Filtro inteligente de chamadas com IA
+## 📱 CallClear – Filtro inteligente de chamadas com IA
 
 O CallClear é um aplicativo mobile em desenvolvimento, criado com React Native, que tem como objetivo utilizar Inteligência Artificial para atuar como um intermediador de chamadas telefônicas. Sua missão é simples, mas poderosa: identificar se uma chamada é de uma pessoa real ou de um robô (robocall).
 
